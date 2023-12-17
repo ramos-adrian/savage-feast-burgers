@@ -10,7 +10,7 @@
   </a>
 <h3 align="center">SAVAGE FEAST</h3>
 <h4 align="center">Enjoy your inner beast!</h4>
-    <a href="https://savage-feast-burger.onrender.com"><strong>View Demo</strong></a>
+    <a href="https://savage-feast-burgers.onrender.com"><strong>View Demo</strong></a>
 </div>
 
 # Where the world of burgers meets the wild 🍔
@@ -82,7 +82,7 @@ Combining the power of React, Redux.js, and MongoDB to deliver a seamless and ro
     - [ ] English
     - [ ] Spanish
 
-See the [open issues](https://github.com/ramos-adrian/savage-feast-burger/issues) for a full list of proposed features (
+See the [open issues](https://github.com/ramos-adrian/savage-feast-burgers/issues) for a full list of proposed features (
 and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -153,7 +153,7 @@ Ramos, Adrián David - ramosadrian@pm.me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-david-ramos/)
 
 This project
-Link: [https://github.com/ramos-adrian/savage-feast-burger](https://github.com/ramos-adrian/savage-feast-burguer)
+Link: [https://github.com/ramos-adrian/savage-feast-burgers](https://github.com/ramos-adrian/savage-feast-burguers)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
