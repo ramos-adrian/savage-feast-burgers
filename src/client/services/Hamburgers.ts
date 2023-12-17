@@ -2,7 +2,7 @@ import {Hamburger} from "../types.ts";
 import {parseHamburgerList} from "../utils/parsers/FoodParser.ts";
 import axios from "axios";
 
-const baseUrl = import.meta.env.VITE_API_URL + '/api/foods';
+const baseUrl = '/api/foods';
 
 const getFeatured = async (): Promise<Hamburger[]> => {
     const rawResponse = await axios.get(`${baseUrl}/featured`);

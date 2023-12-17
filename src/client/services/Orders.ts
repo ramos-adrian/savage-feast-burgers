@@ -2,7 +2,7 @@ import {NewOrder, Order} from "../types.ts";
 import axios from "axios";
 import {parseOrder} from "../utils/parsers/OrderParser.ts";
 
-const baseUrl = import.meta.env.VITE_API_URL + '/api/orders';
+const baseUrl = '/api/orders';
 
 const newOrder = async (newOrderObj: NewOrder): Promise<Order> => {
     return parseOrder((await axios.post(baseUrl, newOrderObj)).data);
